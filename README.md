@@ -12,4 +12,4 @@ Sistema de controle e gerenciamento de execução de ordens de serviço em uma o
     4. O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
     5. A mesma equipe avalia e executa os serviços
     6. Os mecânicos possuem código, nome, endereço e especialidade
-    7.Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+    7. Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
